@@ -46,8 +46,8 @@
 	"contributes": {
 		"iconThemes": [
 			{
-				"id": "symbols",
-				"label": "Symbol Icons",
+				"id": "symbols-enhance",
+				"label": "Symbols Enhance",
 				"path": "./src/symbol-icon-theme.json",
 				"_watch": true
 			}
