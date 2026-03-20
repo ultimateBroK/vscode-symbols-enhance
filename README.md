@@ -1,12 +1,13 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/misolori/vscode-symbols/main/symbols.png" width="140" />
+<img src="https://raw.githubusercontent.com/ultimateBroK/vscode-symbols-enhance/main/symbols.png" width="140" />
 
-# Symbols
+# Symbols Enhance
 
-A file icon for VS Code
+A file icon theme for VS Code with folder open/closed states and no explorer arrows
+(fork from [Symbols](https://github.com/miguelsolorio/vscode-symbols))
 
-![Preview of extension](https://github.com/misolori/vscode-symbols/raw/main/preview.png)
+![Folder States Preview](/preview.png)
 
 </div>
 

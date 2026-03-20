@@ -1,8 +1,8 @@
 name: Feature request
-description: Request a feature for the Symbols extension
+description: Request a feature for the Symbols Enhance extension
 labels: [enhancement]
 assignees:
-  - miguelsolorio
+  - ultimateBroK
 body:
   - type: textarea
     attributes:

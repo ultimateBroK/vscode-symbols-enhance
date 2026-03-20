@@ -2,12 +2,12 @@ name: Association request
 description: Request an existing icon to have new association(s)
 labels: [association request]
 assignees:
-  - miguelsolorio
+  - ultimateBroK
 body:
   - type: input
     attributes:
       label: Icon
-      description: What icon do you want new associations for? You can preview available icons at https://github.com/miguelsolorio/vscode-symbols/blob/main/preview/preview.md
+      description: What icon do you want new associations for? You can preview available icons at https://github.com/ultimateBroK/vscode-symbols-enhance/blob/main/preview/preview.md
     validations:
       required: true
   - type: textarea

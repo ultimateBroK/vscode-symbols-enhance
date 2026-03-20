@@ -52,14 +52,14 @@ jobs:
         with:
           files: ${{ steps.build.outputs.vsixPath }}
           body: |
-            # Symbols v${{ steps.build.outputs.version }}
+            # Symbols Enhance v${{ steps.build.outputs.version }}
 
             Install this version by downloading the `.vsix` file and running:
             ```
             code --install-extension ${{ steps.build.outputs.vsixPath }}
             ```
 
-            See [CHANGELOG.md](https://github.com/miguelsolorio/vscode-symbols/blob/main/CHANGELOG.md) for details.
+            See [CHANGELOG.md](https://github.com/ultimateBroK/vscode-symbols-enhance/blob/main/CHANGELOG.md) for details.
           draft: false
           prerelease: false
 

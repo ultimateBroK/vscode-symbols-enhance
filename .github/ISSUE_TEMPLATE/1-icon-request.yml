@@ -2,7 +2,7 @@ name: Icon request
 description: Request a specific icon
 labels: [icon request]
 assignees:
-  - miguelsolorio
+  - ultimateBroK
 body:
   - type: checkboxes
     attributes:

@@ -1,4 +1,4 @@
-# Contributing to Symbols
+# Contributing to Symbols Enhance
 
 Thanks for contributing! This guide covers adding new icons to this VS Code icon theme.
 
@@ -85,7 +85,7 @@ Reference the [Symbols Figma file](https://www.figma.com/file/HYLMyRbIdSbIJQlqnd
 
 ## Just Want to Request an Icon?
 
-[Open an issue](https://github.com/miguelsolorio/vscode-symbols/issues/new) with:
+[Open an issue](https://github.com/ultimateBroK/vscode-symbols-enhance/issues/new) with:
 - File extension(s) needed
 - What the file type represents
 - Reference images if available

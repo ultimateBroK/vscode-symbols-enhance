@@ -1,5 +1,15 @@
 # Change Log
 
+## 0.0.26
+
+![Folder Open/Closed Preview](https://github.com/ultimateBroK/vscode-symbols-enhance/raw/main/preview.png)
+
+## What's Changed
+* Forked from original Symbols extension
+* Removed folder explorer arrows (`hidesExplorerArrows: true`)
+* Added folder open/closed icon variants (136 folder types)
+* Updated repository to https://github.com/ultimateBroK/vscode-symbols-enhance
+
 ## 0.0.25
 
 ## What's Changed

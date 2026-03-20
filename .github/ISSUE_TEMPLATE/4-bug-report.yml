@@ -2,7 +2,7 @@ name: Bug report
 description: Report a bug or unexpected behaviour
 labels: [bug]
 assignees:
-  - miguelsolorio
+  - ultimateBroK
 body:
   - type: input
     attributes:
