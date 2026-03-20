@@ -1,9 +1,9 @@
 {
 	"name": "symbols",
-	"displayName": "Symbols",
-	"description": "A simple file icon theme for VS Code",
+	"displayName": "Symbols Enhance",
+	"description": "A simple file icon theme for VS Code - Enhance",
 	"version": "0.0.25",
-	"publisher": "miguelsolorio",
+	"publisher": "ultimateBroK",
 	"icon": "symbols.png",
 	"preview": true,
 	"main": "./src/extension.js",
@@ -26,13 +26,13 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/miguelsolorio/vscode-symbols.git"
+		"url": "https://github.com/ultimateBroK/vscode-symbols-enhance.git"
 	},
 	"bugs": {
-		"url": "https://github.com/miguelsolorio/vscode-symbols/issues"
+		"url": "https://github.com/ultimateBroK/vscode-symbols-enhance/issues"
 	},
 	"author": {
-		"name": "Miguel Solorio"
+		"name": "ultimateBroK"
 	},
 	"capabilities": {
 		"untrustedWorkspaces": {
@@ -48,7 +48,7 @@
 			{
 				"id": "symbols",
 				"label": "Symbol Icons",
-				"path": "./src/symbol-icon-theme.modified.json",
+				"path": "./src/symbol-icon-theme.json",
 				"_watch": true
 			}
 		],
