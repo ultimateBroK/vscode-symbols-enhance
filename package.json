@@ -56,22 +56,22 @@
 			"type": "object",
 			"title": "Symbols",
 			"properties": {
-				"symbols.hidesExplorerArrows": {
+				"symbols-enhance.hidesExplorerArrows": {
 					"type": "boolean",
 					"default": false,
 					"description": "Hide arrow icons in the explorer section."
 				},
-				"symbols.defaultAssociations": {
+				"symbols-enhance.defaultAssociations": {
 					"type": "boolean",
 					"default": true,
 					"description": "Allows you to use the default icons for files and folders or disable them and specify your own via symbols.files.associations and symbols.folders.associations."
 				},
-				"symbols.folders.associations": {
+				"symbols-enhance.folders.associations": {
 					"type": "object",
 					"default": {},
 					"description": "With this configuration can customize the folder icons."
 				},
-				"symbols.files.associations": {
+				"symbols-enhance.files.associations": {
 					"type": "object",
 					"default": {},
 					"description": "With this configuration can customize the files icons."

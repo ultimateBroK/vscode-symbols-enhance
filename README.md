@@ -29,12 +29,28 @@ This script will update the preview markdown files with your new icons. Make sur
 
 ## Configuration
 
-You can configure which folders and files icons are displayed by using the following settings:
+You can configure the extension using the following settings:
+
+### Hide Explorer Arrows
+
+```json
+"symbols-enhance.hidesExplorerArrows": true
+```
+
+Set to `true` to hide arrow icons in the explorer section.
+
+### Default Associations
+
+```json
+"symbols-enhance.defaultAssociations": true
+```
+
+Allows you to use the default icons for files and folders or disable them and specify your own via the associations settings below.
 
 ### Folders
 
 ```json
-"symbols.folders.associations": {
+"symbols-enhance.folders.associations": {
     "{folder name}": "{icon name}"
 }
 ```
@@ -42,7 +58,7 @@ You can configure which folders and files icons are displayed by using the follo
 And here is an example using this setting:
 
 ```json
-"symbols.folders.associations": {
+"symbols-enhance.folders.associations": {
     "entities": "folder-assets",
     "infra": "folder-app",
     "schemas": "folder-purple"
@@ -52,7 +68,7 @@ And here is an example using this setting:
 ### Files
 
 ```json
-"symbols.files.associations": {
+"symbols-enhance.files.associations": {
     "{file name}": "{icon name}"
 }
 ```
@@ -60,7 +76,7 @@ And here is an example using this setting:
 And here is an example:
 
 ```json
-"symbols.files.associations": {
+"symbols-enhance.files.associations": {
     "app.module.ts": "nest",
     "*.service.ts": "nest"
 }
